@@ -1,4 +1,4 @@
-# Mini-Projects in Neural Networks
+# Mini Projects in Neural Networks
 
 These mini-project assignments were solved for the EEE 443 Neural Network course at Bilkent University during Fall Semester 2020. The assignments were implemented in MATLAB. Sample exercises were provided in Python with Jupyter notebooks. For more detailed information, you can check the assignment files, MATLAB scripts, and solution reports. 
 
